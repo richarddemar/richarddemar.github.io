@@ -1,0 +1,16 @@
+{
+  "name": "Dogs and Cats by Nina",
+  "short_name": "Dogs and Cats by Nina",
+  "description": "Dogs and Cats by Nina",
+  "icons": [
+    {
+      "sizes": "384x390",
+      "type": "image/png",
+      "src": "https://cdn.glitch.global/7377c477-14bc-4880-ae40-854d6495030a/Dog2.png?v=1650758626774"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "blue",
+  "theme_color": "lightblue",
+  "start_url": "/index.html"
+}
